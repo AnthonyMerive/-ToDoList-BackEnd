@@ -6,10 +6,6 @@
 
 https://github.com/AnthonyMerive/ToDoList-FrontEnd
 
-## Repositorio Back-End:
-
-https://github.com/AnthonyMerive/-ToDoList-BackEnd
-
 ## Descripcion:
 
 Se realizo el proyecto en base a los siguientes requerimientos:
